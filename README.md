@@ -18,10 +18,10 @@ ex. Sort my structure, Search, find and return object
 
 
 Decrypt the Top Secret message
-'quit' -- To exit the program"
-'who' -- To view users and privileges"
-login' -- To sign in and view messages, type a number associated with the user" +
-'decrypt' -- To decrypt a message"
-'access' -- To view who has access to what"
+* 'quit' -- To exit the program"
+* 'who' -- To view users and privileges"
+* 'login' -- To sign in and view messages, type a number associated with the user" +
+* 'decrypt' -- To decrypt a message"
+* 'access' -- To view who has access to what"
 
 
