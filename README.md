@@ -1,5 +1,5 @@
 # Bella_DecrypXOR
-MADE FOR REVATURE PRO BY EMANUEL SANCHEZ
+MADE FOR REVATURE PRO BY E.J. Sanchez
 (Showcases Java's features) 
 Bell-LaPadula Security Model
 XOR & RO13 Encryption and Decryption
